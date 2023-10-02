@@ -1,0 +1,14 @@
+.img__ {
+    height: 300px;
+    object-fit: contain;
+    display: flex;
+    
+}
+.classes_root {
+    /* background-color: aqua; */
+    height: 550px;
+}
+/* Card {
+    max-width: 100%;
+    background-color: aqua;
+} */
